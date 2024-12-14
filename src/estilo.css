@@ -4,6 +4,10 @@
 }
 body{
     font-family:monospace;
+    min-height: 100vh;
+
+    background: rgb(255,92,57);
+    background: linear-gradient(204deg, rgba(255,92,57,1) 0%, rgba(255,153,252,1) 100%);
 }
 form{
     position:fixed;
